@@ -1,0 +1,18 @@
+.incomePanel {
+    text-align: center;
+    padding-top: 25px;
+    background-color: tomato;
+}
+
+.table {
+    display: inline-flex;
+    position: relative;
+}
+
+.tablerow {
+    text-align: left;
+}
+
+.tablerowbutton {
+    text-align: right;
+}

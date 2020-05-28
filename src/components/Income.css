@@ -1,0 +1,30 @@
+.incomePanel {
+    text-align: center;
+    padding-top: 25px;
+    background-color: tomato;
+}
+
+.table {
+    display: inline-flex;
+    position: relative;
+}
+
+.tablerow {
+    text-align: left;
+}
+
+.tablerowbutton {
+    text-align: right;
+}
+
+.dropdown {
+    padding-right: 30px;
+    font-size: 20px;
+}
+
+.savebutton {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}

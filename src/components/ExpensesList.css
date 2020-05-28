@@ -1,0 +1,15 @@
+.expensesListPanel {
+    text-align: center;
+    padding-top: 25px;
+}
+
+.listtable {
+    display: inline-table;
+    position: relative;
+    width: 50%;
+    
+}
+
+.tablerow {
+    text-align: left;
+}
